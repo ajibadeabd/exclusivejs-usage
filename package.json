@@ -1,0 +1,14 @@
+{
+  "name": "exclusive-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serdddver.js",
+  "scripts": {
+    "start:dev": "nodemon ./src/server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exclusivejs": "^1.0.10"
+  }
+}
