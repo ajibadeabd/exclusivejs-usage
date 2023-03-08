@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exclusivejs": "^1.0.10"
+    "exclusivejs": "^1.0.11"
   }
 }
